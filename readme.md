@@ -5,6 +5,10 @@ This repo contains a blueprint for building React web applications with webpack 
 ## Getting started
 
 - clone this repo
+- if you don't have typings installed, run in the command line
+```
+$ npm i typings -g
+```
 - in the command line run
 ```
 $ npm i
